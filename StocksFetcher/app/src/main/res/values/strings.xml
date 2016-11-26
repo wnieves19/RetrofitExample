@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StocksFetcher</string>
+    <string name="search">Search Stocks</string>
+</resources>
